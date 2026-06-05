@@ -1,0 +1,1 @@
+# Master-Thesis-UiB-Spring-2026-Martine-Ingolfsrud
