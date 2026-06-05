@@ -1,1 +1,1 @@
-# Master-Thesis-UiB-Spring-2026-Martine-Ingolfsrud
+# Opentrons OT-2 performance assessment
