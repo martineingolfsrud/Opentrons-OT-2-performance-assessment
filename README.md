@@ -2,9 +2,9 @@
 
 This repository contains developed code and gathered raw data from my Master's thesis titled "Automated Versus Manual Proteomics Sample Preparation: A Comparative Evaluation of Liquid Handling Workflows". The aims of this thesis were to:
 
-•	Develop and implement proteomics sample preparation protocols using an automated liquid handling system. 
-•	Evaluate the performance of a liquid handling robot in comparison to human operators. 
-•	Apply the sample preparation protocols to real-world biological samples.
+-	Develop and implement proteomics sample preparation protocols using an automated liquid handling system. 
+-	Evaluate the performance of a liquid handling robot in comparison to human operators. 
+-	Apply the sample preparation protocols to real-world biological samples.
 
 The proteomics sample preparation protocols adapted and developed for the OT-2 were the bicinchoninic acid (BCA) protein assay and the single-pot, solid-phase-enhanced sample preparation (SP3) protocol. All development and implementation were done in Python (v 3.10.18) using the opentrons library from Opentrons (https://opentrons.com/).
 
@@ -18,8 +18,8 @@ The proteomics sample preparation protocols adapted and developed for the OT-2 w
 
 ## Requirements
 To execute the code in this library the following software and libraries are required:
-• **Software:** Python (version 3.10.18) and Opentrons (version 8.3.0 or newer)
-• **Python packages:** opentrons (API version 2.24)
+- **Software:** Python (version 3.10.18) and Opentrons (version 8.3.0 or newer)
+- **Python packages:** opentrons (API version 2.24)
 
 ## Usage
 To use the code in this repository, clone the repository to your local machine using the following command:
