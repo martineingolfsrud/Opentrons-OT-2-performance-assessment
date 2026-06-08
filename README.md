@@ -6,7 +6,7 @@ This repository contains developed code and gathered raw data from my Master's t
 -	Evaluate the performance of a liquid handling robot in comparison to human operators. 
 -	Apply the sample preparation protocols to real-world biological samples.
 
-The proteomics sample preparation protocols adapted and developed for the OT-2 were the bicinchoninic acid (BCA) protein assay and the single-pot, solid-phase-enhanced sample preparation (SP3) protocol. To compare performance between the Opentrons OT-2 pipetting robot and human operators, BCA assay absorbances and protein group and peptide counts from LC-MS analysis of SP3 samples were collected. Additionally, pipetting steps were timed to compare operating speed. 
+The proteomics sample preparation protocols adapted and developed for the OT-2 were the bicinchoninic acid (BCA) protein assay and the single-pot, solid-phase-enhanced sample preparation (SP3) protocol. To compare performance between the Opentrons OT-2 pipetting robot and human operators, BCA assay absorbances and protein group and peptide counts from LC-MS analysis of MDA lysate samples were collected. Additionally, pipetting steps were timed to compare operating speed. Finally, the OT-2 was tested on real-world yeast samples, yielding quantitative proteomics data. 
 
 ## Table of contents
 
