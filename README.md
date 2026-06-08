@@ -6,15 +6,13 @@ This repository contains developed code and gathered raw data from my Master's t
 -	Evaluate the performance of a liquid handling robot in comparison to human operators. 
 -	Apply the sample preparation protocols to real-world biological samples.
 
-The proteomics sample preparation protocols adapted and developed for the OT-2 were the bicinchoninic acid (BCA) protein assay and the single-pot, solid-phase-enhanced sample preparation (SP3) protocol. All development and implementation were done in Python (v 3.10.18) using the opentrons library from Opentrons (https://opentrons.com/).
+The proteomics sample preparation protocols adapted and developed for the OT-2 were the bicinchoninic acid (BCA) protein assay and the single-pot, solid-phase-enhanced sample preparation (SP3) protocol. To compare performance between the Opentrons OT-2 pipetting robot and human operators, BCA assay absorbances and protein group and peptide counts from LC-MS analysis of SP3 samples were collected. Additionally, pipetting steps were timed to compare operating speed. 
 
 ## Table of contents
 
 ## Repository structure
 
 ### Folder descriptions
-
-## Data
 
 ## Requirements
 To execute the code in this library the following software and libraries are required:
