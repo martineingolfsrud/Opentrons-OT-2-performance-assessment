@@ -14,7 +14,6 @@ The proteomics sample preparation protocols adapted and developed for the OT-2 w
 - [Usage](#usage)
 - [Contact](#contact)
 - [Author](#author)
-- [References](#references)
 
 ## Folder descriptions
 - **BCA:** Contains two single-channel and one multi-channel script ready for upload to the Opentrons App.
