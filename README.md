@@ -9,7 +9,7 @@ This repository contains developed code and gathered raw data from my Master's t
 The proteomics sample preparation protocols adapted and developed for the OT-2 were the bicinchoninic acid (BCA) protein assay and the single-pot, solid-phase-enhanced sample preparation (SP3) protocol. To compare performance between the Opentrons OT-2 pipetting robot and human operators, BCA assay absorbances and protein group and peptide counts from LC-MS analysis of MDA lysate samples were collected. Additionally, pipetting steps were timed to compare operating speed. Finally, the OT-2 was tested on real-world yeast samples, yielding quantitative proteomics data. 
 
 ## Table of contents
-- [Folder descriptions](#folderdescriptions)
+- [Folder descriptions](#folder-descriptions)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Contact](#contact)
