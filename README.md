@@ -16,9 +16,9 @@ The proteomics sample preparation protocols adapted and developed for the OT-2 w
 - [Author](#author)
 
 ## Folder descriptions
-- **BCA:** Contains two single-channel and one multi-channel script ready for upload to the Opentrons App.
-- **Rawdata:** Contains time data for performed SP3 and BCA runs (SP3_times and BCA_times), protein group and peptide counts for MDA lysates (SP3MDA_protcount), protein quantities for yeast samples (SP3yeast_protquant) and absorbances of BCA samples (BCA_absorbances).
-- **SP3:** Contains seven major and one minor version scripts ready for upload to the Opentrons App.
+- **BCA:** Contains two single-channel and one multi-channel script ready for upload to the Opentrons App. json files for custom labware required to apply each protocol is also provided.
+- **Rawdata:** Contains time data for performed SP3 and BCA runs (SP3_times and BCA_times), protein group and peptide counts for MDA lysates (SP3MDA_protcount), protein quantities for yeast samples (SP3yeast_protquant), and absorbances of BCA samples (BCA_absorbances).
+- **SP3:** Contains seven major and one minor version scripts ready for upload to the Opentrons App. json files for custom labware required to apply each protocol is also provided.
 ## Requirements
 To execute the code in this library the following software and libraries are required:
 - **Software:** Python (version 3.10.18) and Opentrons (version 8.3.0 or newer)
